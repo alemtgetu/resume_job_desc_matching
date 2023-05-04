@@ -9,6 +9,7 @@
 # import libraries
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 import nltk
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -44,10 +45,9 @@ print("Model saved")
 # Matching the JD and Resume
 resume_path = 'resume1.pdf'
 resume = ''
-pdfReader = PyPDF2.PdfFileReader(resume_path)
-for i in range(pdfReader.numPages):
-  pageObj = pdfReader.getPage(i)
-  resume += pageObj.extractText()
+pdfReader = PyPDF2.PdfReader(resume_path)
+for page in pdfReader.pages:
+  resume += page.extract_text()
   
 # pre normalize tokenization
 resume = resume.lower()
