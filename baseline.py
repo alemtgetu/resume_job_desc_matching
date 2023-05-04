@@ -94,7 +94,10 @@ jd_df.loc[:,"data"] = jd_df.data.apply(lambda x: re.sub(r'\d+','',x))
 
 model = Doc2Vec.load('doc2Vec.model')
 v1 = model.infer_vector(resume.split())
-v2 = model.infer_vector(jd_df['data'][0].split())
+v2 = model.infer_vector(jd_df['data'][0].split()) # cosine similarity of .499
+#v2 = model.infer_vector(jd_df['data'][1].split()) # .502
+#v2 = model.infer_vector(jd_df['data'][2].split()) # .506
+#v2 = model.infer_vector(jd_df['data'][3].split()) # .507
 cosine_similarity = (np.dot(np.array(v1), np.array(v2))) / (np.linalg.norm(np.array(v1)) * np.linalg.norm(np.array(v2)))
 print(round(cosine_similarity, 3))
 
