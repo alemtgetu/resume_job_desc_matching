@@ -19,6 +19,9 @@ from tqdm import tqdm
 import gzip
 import json
 import re
+from collections import Counter
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 def filter_punctuation(tokens):
     punct = string.punctuation
@@ -48,6 +51,8 @@ def map_resume_categories(df):
     # Right side is Indeed jd dataset categories, left is huggingface category
     mapping = {
         "Health and fitness": "healthcare",
+        "": "administrative",
+        "": "construction_facilities",
         "Mechanical Engineer": "manufacturing_mechanical",
         "Electrical Engineering": "manufacturing_mechanical",
         "Data Science": "computer_internet",
@@ -55,23 +60,33 @@ def map_resume_categories(df):
         "Java Developer": "computer_internet",
         "SAP Developer": "computer_internet",
         "Automation Testing": "computer_internet",
-        "DotNet Developer": "computer_internet",
         "Python Developer": "computer_internet",
         "DevOps Engineer": "computer_internet",
-        "Blockchain": "computer_internet",
-        "Testing": "computer_internet",
         "Database": "computer_internet",
         "Hadoop": "computer_internet",
         "ETL Developer": "computer_internet",
         "Sales": "sales",
+        "": "restaurant_food_service",
         "Operations Manager": "transportation_logistics",
+        "":  "customer_service",
+        "": "education_training",
         "HR": "human_resources",
         "Business Analyst": "accounting_finance",
         "Civil Engineer": "engineering_architecture",
+        "": "retail",
+        "": "marketing_advertising_pr",
         "PMO": "upper_management_consulting",
+        "": "banking_loans",
         "Arts": "arts_entertainment_publishing",
+        "": "hospitality_travel",
         "Network Security Engineer": "telecommunications",
-        "Advocate": "legal",
+        "": "law_enforcement_security",
+        "": "non-profit_volunteering",
+        "": "insurance",
+        "": "real_estate",
+        "": "government_military",
+        "": "pharmaceutical_bio-tech",
+        "": "legal"
     }
 
     # Map the categories in the dataframe
@@ -166,13 +181,40 @@ for job_title, job_desc, resume_id, similarity_score, category in matched_pairs:
     print("Similarity Score:", similarity_score)
     print("==========")
 
+# Create a list of similarity scores for each job and resume pair
+score_list = [pair[3] for pair in matched_pairs]
+
+# Reshape the list into a matrix with job titles as rows and resume categories as columns
+score_matrix = np.reshape(score_list, (len(job_titles), len(categories)))
+
+# Create a heatmap using seaborn
+sns.heatmap(score_matrix, annot=True, xticklabels=categories, yticklabels=job_titles)
+plt.xlabel('Resume Category')
+plt.ylabel('Job Title')
+plt.title('Resume-Job Description Similarity Scores')
+plt.show()
+
+# Create a dictionary to hold the counts of correctly and incorrectly matched pairs for each category
+category_counts = {category: {'Correct': 0, 'Incorrect': 0} for category in job_titles}
+for pair in matched_pairs:
+    actual_category, _, _, _, predicted_category = pair
+    if actual_category == predicted_category:
+        category_counts[actual_category]['Correct'] += 1
+    else:
+        category_counts[actual_category]['Incorrect'] += 1
+
+# Create a grouped bar chart of the category counts
+correct_counts = [category_counts[category]['Correct'] for category in job_titles]
+incorrect_counts = [category_counts[category]['Incorrect'] for category in job_titles]
+x = np.arange(len(job_titles))
+width = 0.35
 fig, ax = plt.subplots()
-ax.scatter(*zip(*data_points))
-ax.set_xticks(range(len(categories)))
-ax.set_xticklabels(categories, rotation=90)
-ax.set_yticks(range(len(job_titles)))
-ax.set_yticklabels(job_titles)
-ax.set_xlabel('Categories')
-ax.set_ylabel('Job Titles')
-ax.set_title('Job Titles and Categories Scatterplot')
+rects1 = ax.bar(x - width/2, correct_counts, width, label='Correct')
+rects2 = ax.bar(x + width/2, incorrect_counts, width, label='Incorrect')
+ax.set_xticks(x)
+ax.set_xticklabels(job_titles,rotation=65, ha='right')
+ax.legend()
+plt.xlabel('Categories')
+plt.ylabel('Count')
+plt.title('Resume/Job Description Matching')
 plt.show()
