@@ -7,6 +7,9 @@ import json
 import nltk
 from nltk.tokenize import word_tokenize
 import re
+from sklearn.metrics.pairwise import cosine_similarity
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 def filter_punctuation(tokens):
     punct = string.punctuation
@@ -50,7 +53,8 @@ def naive_word_match(job_dataset, resume_dataset):
     resume_descriptions = vectorizer.transform(resume_df['Resume_str'])
 
     # cosine similarities
-    similarity_matrix = resume_descriptions.dot(job_descriptions.T)
+    similarity_matrix = cosine_similarity(resume_descriptions, job_descriptions)
+    #similarity_matrix = resume_descriptions.dot(job_descriptions.T)
 
     # find best matching job description
     pairs = []
@@ -58,8 +62,14 @@ def naive_word_match(job_dataset, resume_dataset):
         resume_idx = i
         job_idx = similarity_matrix[i].argmax()
         similarity_score = similarity_matrix[i, job_idx]
+        job_category = job_df.loc[job_idx, 'category']
+        resume_category = resume_df.iloc[i, 8] 
+        job_desc = job_df.loc[job_idx, 'job_description']
+        resume_desc = resume_df.iloc[i, 4] 
 
-        pairs.append((resume_idx, job_idx, similarity_score))
+        pairs.append((resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc))
+        # Sort pairs based on similarity score in descending order
+        pairs = sorted(pairs, key=lambda x: x[2], reverse=True)
 
     return pairs
 
@@ -68,5 +78,5 @@ resume_dataset = 'surgeai_resume_dataset.csv'
 
 matched_pairs = naive_word_match(job_dataset, resume_dataset)
 
-for resume_idx, job_idx, similarity_score in matched_pairs:
-    print(f"Resume {resume_idx} matched with Job {job_idx} (Similarity: {similarity_score})")
+for resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc in matched_pairs:
+    print(f"Resume Category: {resume_category} \n\nJob Description Category: {job_category} \n\n(Similarity Score: {similarity_score})\n\n\n------------------------------------\n")
