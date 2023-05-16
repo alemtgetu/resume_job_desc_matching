@@ -48,7 +48,7 @@ def read_and_clean_jds(infile):
     return jds, categories
 
 def map_resume_categories(df):
-    # Right side is Indeed jd dataset categories, left is huggingface category
+    # Left is huggingface category, Right side is Indeed jd dataset categories
     mapping = {
         "Health and fitness": "healthcare",
         "": "administrative",
@@ -158,22 +158,12 @@ for i, scores in enumerate(similarity_scores):
     job_title = job_descriptions_sample.iloc[i]['category'] 
     matched_pairs.append((job_title, job_descs_test[i], resumes['resume_id'][best_match_index], similarity_score, resumes['Category'][best_match_index]))
 
-
-# resumes dataframe for the x-axis
+# resumes dataframe 
 categories = list(resumes['Category'].unique())
-# job_description_sample dataframe for the y-axis
+# job_description_sample dataframe
 job_titles = list(job_descriptions_sample['category'].unique())
 
-# Label Encoding the categories
-job_title_dict = {title: i for i, title in enumerate(job_titles)}
-category_dict = {category: i for i, category in enumerate(categories)}
-# create an empty array to hold the data points for scatterplot
-data_points = []
-
 for job_title, job_desc, resume_id, similarity_score, category in matched_pairs:
-    x = category_dict[category]
-    y = job_title_dict[job_title]
-    data_points.append((x, y))
     print("Job Title:", job_title)
     print("Job Description:\n", job_desc)
     print("\nResume Category:", category)
@@ -181,18 +171,49 @@ for job_title, job_desc, resume_id, similarity_score, category in matched_pairs:
     print("Similarity Score:", similarity_score)
     print("==========")
 
-# Create a list of similarity scores for each job and resume pair
-score_list = [pair[3] for pair in matched_pairs]
+# Find precision and recall
+tp_counts = {}
+for job_title in job_titles:
+    tp_counts[job_title] = 0
 
-# Reshape the list into a matrix with job titles as rows and resume categories as columns
-score_matrix = np.reshape(score_list, (len(job_titles), len(categories)))
+for job_title, job_desc, resume_id, similarity_score, category in matched_pairs:
+    predicted_category = job_title
+    if predicted_category == category:
+        tp_counts[predicted_category] += 1
 
-# Create a heatmap using seaborn
-sns.heatmap(score_matrix, annot=True, xticklabels=categories, yticklabels=job_titles)
-plt.xlabel('Resume Category')
-plt.ylabel('Job Title')
-plt.title('Resume-Job Description Similarity Scores')
-plt.show()
+fp_counts = {}
+fn_counts = {}
+for job_title in job_titles:
+    fp_counts[job_title] = 0
+    fn_counts[job_title] = 0
+
+for category in categories:
+    for job_title in job_titles:
+        if job_title != category:
+            tp = tp_counts.get(job_title, 0)
+            fp = 0
+            fn = 0
+            for job_title2, _, _, _, category2 in matched_pairs:
+                if job_title2 == job_title and category2 == category:
+                    fp += 1
+            for job_title2, _, _, _, category2 in matched_pairs:
+                if job_title2 != job_title and category2 == category:
+                    fn += 1
+            fp_counts[job_title] += fp
+            fn_counts[job_title] += fn
+
+for job_title in job_titles:
+    tp = tp_counts[job_title]
+    fp = fp_counts[job_title]
+    fn = fn_counts[job_title]
+    precision = tp / (tp + fp + 1e-10) # Avoid division by 0
+    recall = tp / (tp + fn)
+    print("Category:", job_title)
+    print("Precision:", precision)
+    print("Recall:", recall)
+    print("==========")
+
+
 
 # Create a dictionary to hold the counts of correctly and incorrectly matched pairs for each category
 category_counts = {category: {'Correct': 0, 'Incorrect': 0} for category in job_titles}
