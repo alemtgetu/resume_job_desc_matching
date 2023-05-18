@@ -10,7 +10,7 @@ import re
 from sklearn.metrics.pairwise import cosine_similarity
 import seaborn as sns
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
+import numpy as np
 
 
 def filter_punctuation(tokens):
@@ -72,14 +72,62 @@ def naive_word_match(job_dataset, resume_dataset):
         # Sort pairs based on similarity score in descending order
         pairs = sorted(pairs, key=lambda x: x[2], reverse=True)
 
-    return pairs
+    # Create an empty list to store the dictionaries
+    data = []
+
+    # Manual annotation of matched pairs
+    matched_ids = [(9, 121), (458, 841), (431, 841), (351, 120), (362, 278), (327, 668), (391, 705), (20, 594), (375, 516),
+                   (281, 144), (451, 93), (0, 768), (318, 841), (140, 321), (171, 67), (129, 423), (192, 286), (23, 17),
+                   (444, 705), (508, 628), (480, 260), (84, 0), (265, 217), (76, 211), (353, 42), (282, 620)]
+    # Unmatched pairs
+    non_matched_ids = [(33, 463), (553, 144), (510, 53), (348, 463), (508, 127), (285, 253), (149, 257), (214, 60), (101, 257),
+                       (75, 93), (196, 22), (54, 856), (412, 423), (239, 628), (213, 795), (103, 319), (189, 736), (550, 127),
+                       (311, 939), (237, 731), (73, 928), (86, 645), (143, 133), (412, 423), (439, 628), (509, 133)]
+
+    for resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc in pairs:
+        if (resume_idx, job_idx) in matched_ids:
+            # Add the information to the sample dataframe for matched pairs
+            data.append({'resume_id': resume_idx, 'job_desc_id': job_idx, 'similarity_score': similarity_score,
+                         'job_category': job_category, 'resume_category': resume_category,
+                         'job_description': job_desc, 'resume_text': resume_desc, 'label': 1})
+        elif (resume_idx, job_idx) in non_matched_ids:
+            # Add the information to the sample dataframe for non-matched pairs
+            data.append({'resume_id': resume_idx, 'job_desc_id': job_idx, 'similarity_score': similarity_score,
+                         'job_category': job_category, 'resume_category': resume_category,
+                         'job_description': job_desc, 'resume_text': resume_desc, 'label': 0})
+
+    # Convert the list of dictionaries into a dataframe
+    sample_df = pd.DataFrame(data, columns=['resume_id', 'job_desc_id', 'similarity_score', 'job_category', 'resume_category', 'job_description', 'resume_text', 'label'])
+
+    return pairs, sample_df
+
 
 job_dataset = 'small_indeed_jd.ldjson.gz'
 resume_dataset = 'surgeai_resume_dataset.csv'
 
-matched_pairs = naive_word_match(job_dataset, resume_dataset)
+matched_pairs, sample_df = naive_word_match(job_dataset, resume_dataset)
 file_path = "matched_pairs.txt"
 
 with open(file_path, "w") as file:
     for resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc in matched_pairs:
-        file.write(f"Resume Category: {resume_category}\n\nJob Description Category: {job_category}\n\n(Similarity Score: {similarity_score})\n\n\n------------------------------------\n")
+        file.write(f"Resume id: {resume_idx} \nResume Category: {resume_category}\n\nJob Desc id: {job_idx} \nJob Description Category: {job_category}\n\n(Similarity Score: {similarity_score})\n\n\n------------------------------------\n")
+
+# Group the matches by resume category and count the occurrences
+match_counts = sample_df[sample_df['label'] == 1]['resume_category'].value_counts()
+mismatch_counts = sample_df[sample_df['label'] == 0]['resume_category'].value_counts()
+
+# Combine the match and mismatch counts for all categories
+category_counts = pd.concat([match_counts, mismatch_counts], axis=1, keys=['Correct Matches', 'Incorrect Matches']).fillna(0)
+
+# Create the bar plot
+fig, ax = plt.subplots(figsize=(12, 6))
+category_counts.plot.bar(ax=ax)
+
+# Add labels and title
+ax.set_xlabel('Resume Category')
+ax.set_ylabel('Match Count')
+ax.set_title('Matches and Mismatches by Resume Category')
+
+# Show the plot
+plt.tight_layout()
+plt.show()
