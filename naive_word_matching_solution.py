@@ -123,6 +123,9 @@ category_counts = pd.concat([match_counts, mismatch_counts], axis=1, keys=['Corr
 fig, ax = plt.subplots(figsize=(12, 6))
 category_counts.plot.bar(ax=ax)
 
+# Rotate x-axis labels
+plt.xticks(rotation=45, ha='right')
+
 # Add labels and title
 ax.set_xlabel('Resume Category')
 ax.set_ylabel('Match Count')
