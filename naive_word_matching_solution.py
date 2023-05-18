@@ -10,6 +10,8 @@ import re
 from sklearn.metrics.pairwise import cosine_similarity
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+
 
 def filter_punctuation(tokens):
     punct = string.punctuation
@@ -35,7 +37,6 @@ def read_and_clean_jds(infile):
             jds.append(jd_string)
             
     return jds, categories
-
 
 def naive_word_match(job_dataset, resume_dataset):
     jds, categories = read_and_clean_jds(job_dataset)
@@ -77,6 +78,8 @@ job_dataset = 'small_indeed_jd.ldjson.gz'
 resume_dataset = 'surgeai_resume_dataset.csv'
 
 matched_pairs = naive_word_match(job_dataset, resume_dataset)
+file_path = "matched_pairs.txt"
 
-for resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc in matched_pairs:
-    print(f"Resume Category: {resume_category} \n\nJob Description Category: {job_category} \n\n(Similarity Score: {similarity_score})\n\n\n------------------------------------\n")
+with open(file_path, "w") as file:
+    for resume_idx, job_idx, similarity_score, job_category, resume_category, job_desc, resume_desc in matched_pairs:
+        file.write(f"Resume Category: {resume_category}\n\nJob Description Category: {job_category}\n\n(Similarity Score: {similarity_score})\n\n\n------------------------------------\n")
