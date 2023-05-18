@@ -1,4589 +1,5737 @@
+Resume id: 33 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.9101725210623692)
 
 
 ------------------------------------
+Resume id: 249 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 117 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8912552196562762)
 
 
 ------------------------------------
+Resume id: 402 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8836252982491904)
 
 
 ------------------------------------
+Resume id: 268 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8762618212055151)
 
 
 ------------------------------------
+Resume id: 359 
 Resume Category: Health Care / Other
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8759027483161088)
 
 
 ------------------------------------
+Resume id: 388 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8721951540151476)
 
 
 ------------------------------------
+Resume id: 51 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 194 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8668217088376909)
 
 
 ------------------------------------
+Resume id: 396 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8663844322642831)
 
 
 ------------------------------------
+Resume id: 112 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8653699973098267)
 
 
 ------------------------------------
+Resume id: 122 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8644565113994959)
 
 
 ------------------------------------
+Resume id: 553 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8643067114429832)
 
 
 ------------------------------------
+Resume id: 82 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8623723266810637)
 
 
 ------------------------------------
+Resume id: 322 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8617629178801116)
 
 
 ------------------------------------
+Resume id: 273 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8614184963630055)
 
 
 ------------------------------------
+Resume id: 9 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8602530159684079)
 
 
 ------------------------------------
+Resume id: 230 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.8592364230291498)
 
 
 ------------------------------------
+Resume id: 458 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8589876697003566)
 
 
 ------------------------------------
+Resume id: 525 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 695 
 Job Description Category: retail
 
 (Similarity Score: 0.8588321129507004)
 
 
 ------------------------------------
+Resume id: 118 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8576010697910206)
 
 
 ------------------------------------
+Resume id: 11 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8573147449884343)
 
 
 ------------------------------------
+Resume id: 468 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8568771649981578)
 
 
 ------------------------------------
+Resume id: 47 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8564941517935813)
 
 
 ------------------------------------
+Resume id: 431 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8532293389661615)
 
 
 ------------------------------------
+Resume id: 332 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8527852032323721)
 
 
 ------------------------------------
+Resume id: 518 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8521834513087669)
 
 
 ------------------------------------
+Resume id: 16 
 Resume Category: Retail / Small Business Owner + Entrepreneur (General Category)
 
+Job Desc id: 133 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8518953129200476)
 
 
 ------------------------------------
+Resume id: 490 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8517286613860157)
 
 
 ------------------------------------
+Resume id: 357 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8513279689386688)
 
 
 ------------------------------------
+Resume id: 379 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8500339013980115)
 
 
 ------------------------------------
+Resume id: 339 
 Resume Category: Food + Beverage / Operations + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8499925102943859)
 
 
 ------------------------------------
+Resume id: 256 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8497466665214308)
 
 
 ------------------------------------
+Resume id: 334 
 Resume Category: Health Care / Other
 
+Job Desc id: 518 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8490958376324317)
 
 
 ------------------------------------
+Resume id: 245 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.848447249890259)
 
 
 ------------------------------------
+Resume id: 177 
 Resume Category: Health Care / Other
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.8479949703286287)
 
 
 ------------------------------------
+Resume id: 48 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8473027618633077)
 
 
 ------------------------------------
+Resume id: 400 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8470817196398713)
 
 
 ------------------------------------
+Resume id: 486 
 Resume Category: Education / Other
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.8469581996029582)
 
 
 ------------------------------------
+Resume id: 93 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8468146036589659)
 
 
 ------------------------------------
+Resume id: 393 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8463159772746246)
 
 
 ------------------------------------
+Resume id: 289 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8459753531213601)
 
 
 ------------------------------------
+Resume id: 200 
 Resume Category: Health Care / Other
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.845866036610297)
 
 
 ------------------------------------
+Resume id: 383 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8453646579475019)
 
 
 ------------------------------------
+Resume id: 433 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8453347184203702)
 
 
 ------------------------------------
+Resume id: 562 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8445237889292031)
 
 
 ------------------------------------
+Resume id: 198 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8442112181055653)
 
 
 ------------------------------------
+Resume id: 441 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.843922860523524)
 
 
 ------------------------------------
+Resume id: 150 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8437499769287118)
 
 
 ------------------------------------
+Resume id: 293 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.8436825289568954)
 
 
 ------------------------------------
+Resume id: 78 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8434536651258847)
 
 
 ------------------------------------
+Resume id: 194 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 455 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8433198606648532)
 
 
 ------------------------------------
+Resume id: 292 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8418025970688483)
 
 
 ------------------------------------
+Resume id: 115 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8412377006487463)
 
 
 ------------------------------------
+Resume id: 445 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8411675492134371)
 
 
 ------------------------------------
+Resume id: 297 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 406 
 Job Description Category: healthcare
 
 (Similarity Score: 0.841053546301631)
 
 
 ------------------------------------
+Resume id: 564 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8403716303160541)
 
 
 ------------------------------------
+Resume id: 36 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8401259860870328)
 
 
 ------------------------------------
+Resume id: 537 
 Resume Category: Aerospace / Sales
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8395994791485948)
 
 
 ------------------------------------
+Resume id: 443 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.839538254685156)
 
 
 ------------------------------------
+Resume id: 157 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8391088128636988)
 
 
 ------------------------------------
+Resume id: 481 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8389946928032789)
 
 
 ------------------------------------
+Resume id: 26 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8389263071820995)
 
 
 ------------------------------------
+Resume id: 347 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8383389880309134)
 
 
 ------------------------------------
+Resume id: 267 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8374046528917386)
 
 
 ------------------------------------
+Resume id: 315 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8372089414373408)
 
 
 ------------------------------------
+Resume id: 427 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8367117147020205)
 
 
 ------------------------------------
+Resume id: 134 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8366469557813347)
 
 
 ------------------------------------
+Resume id: 144 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8362201043897504)
 
 
 ------------------------------------
+Resume id: 521 
 Resume Category: Aerospace / Sales
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8358927972475031)
 
 
 ------------------------------------
+Resume id: 463 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8356030448514299)
 
 
 ------------------------------------
+Resume id: 387 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8351891916126323)
 
 
 ------------------------------------
+Resume id: 447 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8336349289783376)
 
 
 ------------------------------------
+Resume id: 389 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8334519616544216)
 
 
 ------------------------------------
+Resume id: 460 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8332349030041174)
 
 
 ------------------------------------
+Resume id: 295 
 Resume Category: Food + Beverage / Sales
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8330768172162072)
 
 
 ------------------------------------
+Resume id: 352 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8330159593379798)
 
 
 ------------------------------------
+Resume id: 13 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8318606056780561)
 
 
 ------------------------------------
+Resume id: 251 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8316462339037509)
 
 
 ------------------------------------
+Resume id: 141 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8310039532193364)
 
 
 ------------------------------------
+Resume id: 319 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8306656759915056)
 
 
 ------------------------------------
+Resume id: 342 
 Resume Category: Finance + Business / Insurance
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.830319711432731)
 
 
 ------------------------------------
+Resume id: 364 
 Resume Category: Health Care / Other
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8300773428194995)
 
 
 ------------------------------------
+Resume id: 495 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8292282139527227)
 
 
 ------------------------------------
+Resume id: 58 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 133 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8291718152432481)
 
 
 ------------------------------------
+Resume id: 512 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8289606053222744)
 
 
 ------------------------------------
+Resume id: 70 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8277094291977896)
 
 
 ------------------------------------
+Resume id: 535 
 Resume Category: Communications + Marketing / Maintenance + Service (to include telecom)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8272549552914259)
 
 
 ------------------------------------
+Resume id: 360 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8266622490435813)
 
 
 ------------------------------------
+Resume id: 484 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8264829530106451)
 
 
 ------------------------------------
+Resume id: 30 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 374 
 Job Description Category: retail
 
 (Similarity Score: 0.8262986088226321)
 
 
 ------------------------------------
+Resume id: 369 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.8253739155353779)
 
 
 ------------------------------------
+Resume id: 280 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8253057255730247)
 
 
 ------------------------------------
+Resume id: 397 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.8244303708926047)
 
 
 ------------------------------------
+Resume id: 109 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 726 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.8242911747753366)
 
 
 ------------------------------------
+Resume id: 514 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.823781031461468)
 
 
 ------------------------------------
+Resume id: 44 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8236491195376531)
 
 
 ------------------------------------
+Resume id: 77 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.823586340570769)
 
 
 ------------------------------------
+Resume id: 524 
 Resume Category: Automotive / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8235366462568768)
 
 
 ------------------------------------
+Resume id: 425 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8231953162951058)
 
 
 ------------------------------------
+Resume id: 310 
 Resume Category: Health Care / Hospital: Doctor or Caregiver
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.8231905454695064)
 
 
 ------------------------------------
+Resume id: 83 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.8231738689579455)
 
 
 ------------------------------------
+Resume id: 371 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8226954253133928)
 
 
 ------------------------------------
+Resume id: 471 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8223827749029025)
 
 
 ------------------------------------
+Resume id: 165 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8223340774378526)
 
 
 ------------------------------------
+Resume id: 234 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.8220234997430158)
 
 
 ------------------------------------
+Resume id: 107 
 Resume Category: Information Technology Services / Sales
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8216873247146932)
 
 
 ------------------------------------
+Resume id: 416 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8213473410805677)
 
 
 ------------------------------------
+Resume id: 340 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8205298930600711)
 
 
 ------------------------------------
+Resume id: 411 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 831 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.820478437567537)
 
 
 ------------------------------------
+Resume id: 186 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.820417708525386)
 
 
 ------------------------------------
+Resume id: 210 
 Resume Category: Health Care / Other
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8203044132784223)
 
 
 ------------------------------------
+Resume id: 457 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.8202408943786781)
 
 
 ------------------------------------
+Resume id: 430 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.819958948430066)
 
 
 ------------------------------------
+Resume id: 179 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 721 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.8197290215077607)
 
 
 ------------------------------------
+Resume id: 376 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8197058779221423)
 
 
 ------------------------------------
+Resume id: 337 
 Resume Category: Health Care / Other
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.8192285257799042)
 
 
 ------------------------------------
+Resume id: 475 
 Resume Category: Education / Administrative
 
+Job Desc id: 726 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.8190160483032528)
 
 
 ------------------------------------
+Resume id: 356 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8188729528813433)
 
 
 ------------------------------------
+Resume id: 240 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8186891973130924)
 
 
 ------------------------------------
+Resume id: 258 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8180868724581094)
 
 
 ------------------------------------
+Resume id: 59 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 856 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.817721362576593)
 
 
 ------------------------------------
+Resume id: 87 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 652 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8175998240743101)
 
 
 ------------------------------------
+Resume id: 305 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8173696003335629)
 
 
 ------------------------------------
+Resume id: 104 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8173553258749164)
 
 
 ------------------------------------
+Resume id: 500 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8171940563430545)
 
 
 ------------------------------------
+Resume id: 306 
 Resume Category: Government / Military
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8165868806583583)
 
 
 ------------------------------------
+Resume id: 549 
 Resume Category: Agriculture / Operations + Administrative
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8164351273976538)
 
 
 ------------------------------------
+Resume id: 336 
 Resume Category: Food + Beverage / Operations + Administrative
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8164134447902629)
 
 
 ------------------------------------
+Resume id: 403 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8162126056195853)
 
 
 ------------------------------------
+Resume id: 331 
 Resume Category: Finance + Business / Mortgage + Real Estate
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8161264788021755)
 
 
 ------------------------------------
+Resume id: 459 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8161086811351416)
 
 
 ------------------------------------
+Resume id: 125 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8156249818343173)
 
 
 ------------------------------------
+Resume id: 100 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.8152782101726626)
 
 
 ------------------------------------
+Resume id: 329 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.8145834053364639)
 
 
 ------------------------------------
+Resume id: 464 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.8145430317609149)
 
 
 ------------------------------------
+Resume id: 309 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.8143651208808997)
 
 
 ------------------------------------
+Resume id: 169 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.814179732439873)
 
 
 ------------------------------------
+Resume id: 497 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8139022718932485)
 
 
 ------------------------------------
+Resume id: 479 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.8138654424379365)
 
 
 ------------------------------------
+Resume id: 191 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8136893814286729)
 
 
 ------------------------------------
+Resume id: 95 
 Resume Category: Information Technology Services / Other
 
+Job Desc id: 793 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8133586840351659)
 
 
 ------------------------------------
+Resume id: 296 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.8132555404331848)
 
 
 ------------------------------------
+Resume id: 212 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8129852741241789)
 
 
 ------------------------------------
+Resume id: 31 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.8129192808848816)
 
 
 ------------------------------------
+Resume id: 568 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8125127463842532)
 
 
 ------------------------------------
+Resume id: 229 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8124973785803276)
 
 
 ------------------------------------
+Resume id: 560 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8124775081020089)
 
 
 ------------------------------------
+Resume id: 113 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.812214253699502)
 
 
 ------------------------------------
+Resume id: 119 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8120319432108715)
 
 
 ------------------------------------
+Resume id: 312 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8112663761245631)
 
 
 ------------------------------------
+Resume id: 548 
 Resume Category: Aerospace / Sales
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.8107997924056982)
 
 
 ------------------------------------
+Resume id: 294 
 Resume Category: Health Care / Hospital: Doctor or Caregiver
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.8107637585461543)
 
 
 ------------------------------------
+Resume id: 567 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8107598984714272)
 
 
 ------------------------------------
+Resume id: 422 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.8106386985958814)
 
 
 ------------------------------------
+Resume id: 233 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8102825662106984)
 
 
 ------------------------------------
+Resume id: 197 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 793 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8101845987973575)
 
 
 ------------------------------------
+Resume id: 325 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8100710888111553)
 
 
 ------------------------------------
+Resume id: 253 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8098075404633391)
 
 
 ------------------------------------
+Resume id: 182 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8093175081108775)
 
 
 ------------------------------------
+Resume id: 573 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8092065347001194)
 
 
 ------------------------------------
+Resume id: 368 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8092004614126086)
 
 
 ------------------------------------
+Resume id: 454 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8091398822502298)
 
 
 ------------------------------------
+Resume id: 299 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.8085516165811327)
 
 
 ------------------------------------
+Resume id: 303 
 Resume Category: Government / Military
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8082826374992106)
 
 
 ------------------------------------
+Resume id: 335 
 Resume Category: Finance + Business / Insurance
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8075616431674258)
 
 
 ------------------------------------
+Resume id: 487 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 185 
 Job Description Category: retail
 
 (Similarity Score: 0.8075398822691022)
 
 
 ------------------------------------
+Resume id: 21 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 169 
 Job Description Category: administrative
 
 (Similarity Score: 0.8070339940738985)
 
 
 ------------------------------------
+Resume id: 406 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.8068343435789208)
 
 
 ------------------------------------
+Resume id: 246 
 Resume Category: Human Services + Social Work / Social Worker
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8068076561699732)
 
 
 ------------------------------------
+Resume id: 277 
 Resume Category: Government / Military
 
+Job Desc id: 169 
 Job Description Category: administrative
 
 (Similarity Score: 0.8067668435854641)
 
 
 ------------------------------------
+Resume id: 420 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8066025534648485)
 
 
 ------------------------------------
+Resume id: 361 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.8065812150867215)
 
 
 ------------------------------------
+Resume id: 316 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8060482807365502)
 
 
 ------------------------------------
+Resume id: 67 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 374 
 Job Description Category: retail
 
 (Similarity Score: 0.8056922579374489)
 
 
 ------------------------------------
+Resume id: 4 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8052092863049265)
 
 
 ------------------------------------
+Resume id: 88 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.8046870711334613)
 
 
 ------------------------------------
+Resume id: 461 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8044924279696546)
 
 
 ------------------------------------
+Resume id: 384 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.8044672540983308)
 
 
 ------------------------------------
+Resume id: 556 
 Resume Category: Agriculture / Operations + Administrative
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8043801750195506)
 
 
 ------------------------------------
+Resume id: 66 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 48 
 Job Description Category: administrative
 
 (Similarity Score: 0.8040162952398705)
 
 
 ------------------------------------
+Resume id: 276 
 Resume Category: Government / Operations + Administrative
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.8038295056136094)
 
 
 ------------------------------------
+Resume id: 414 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8035123655465176)
 
 
 ------------------------------------
+Resume id: 323 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 130 
 Job Description Category: sales
 
 (Similarity Score: 0.803318035373799)
 
 
 ------------------------------------
+Resume id: 116 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8031348859949453)
 
 
 ------------------------------------
+Resume id: 167 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.8025007476866356)
 
 
 ------------------------------------
+Resume id: 147 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.8024290411607813)
 
 
 ------------------------------------
+Resume id: 462 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.8022304345444022)
 
 
 ------------------------------------
+Resume id: 298 
 Resume Category: Government / Operations + Administrative
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.8019374667595571)
 
 
 ------------------------------------
+Resume id: 121 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.8017996432305611)
 
 
 ------------------------------------
+Resume id: 351 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 120 
 Job Description Category: restaurant_food_service
 
 (Similarity Score: 0.8017511271993099)
 
 
 ------------------------------------
+Resume id: 3 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.8015498791933839)
 
 
 ------------------------------------
+Resume id: 190 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.801500705607721)
 
 
 ------------------------------------
+Resume id: 423 
 Resume Category: Finance + Business / Banking
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.8013510674709433)
 
 
 ------------------------------------
+Resume id: 448 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.801338451328736)
 
 
 ------------------------------------
+Resume id: 91 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.8012558690916307)
 
 
 ------------------------------------
+Resume id: 120 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 928 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.8011906074789116)
 
 
 ------------------------------------
+Resume id: 476 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.8011561301351672)
 
 
 ------------------------------------
+Resume id: 466 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 17 
 Job Description Category: retail
 
 (Similarity Score: 0.8008904453279124)
 
 
 ------------------------------------
+Resume id: 259 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 169 
 Job Description Category: administrative
 
 (Similarity Score: 0.8007642130366579)
 
 
 ------------------------------------
+Resume id: 563 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 94 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.8007315981450205)
 
 
 ------------------------------------
+Resume id: 380 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.800659380383762)
 
 
 ------------------------------------
+Resume id: 529 
 Resume Category: Agriculture / Other
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.8004453027632173)
 
 
 ------------------------------------
+Resume id: 2 
 Resume Category: Transportation + Travel / Sales (includes travel agent)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.8002046152110536)
 
 
 ------------------------------------
+Resume id: 181 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 740 
 Job Description Category: administrative
 
 (Similarity Score: 0.8001414266082965)
 
 
 ------------------------------------
+Resume id: 185 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7996775446978593)
 
 
 ------------------------------------
+Resume id: 152 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 118 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.7991539690448121)
 
 
 ------------------------------------
+Resume id: 520 
 Resume Category: Communications + Marketing / Maintenance + Service (to include telecom)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7989721537952251)
 
 
 ------------------------------------
+Resume id: 283 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7986184392591428)
 
 
 ------------------------------------
+Resume id: 304 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7986094224299933)
 
 
 ------------------------------------
+Resume id: 208 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.798441350458575)
 
 
 ------------------------------------
+Resume id: 56 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 726 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.7978897263399762)
 
 
 ------------------------------------
+Resume id: 344 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7975099068305641)
 
 
 ------------------------------------
+Resume id: 260 
 Resume Category: Human Services + Social Work / Social Worker
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7974852225395893)
 
 
 ------------------------------------
+Resume id: 45 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7974370478105715)
 
 
 ------------------------------------
+Resume id: 17 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.7974299005025174)
 
 
 ------------------------------------
+Resume id: 127 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.7973741032129358)
 
 
 ------------------------------------
+Resume id: 18 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 133 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7973525520549422)
 
 
 ------------------------------------
+Resume id: 205 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 163 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7971202473671394)
 
 
 ------------------------------------
+Resume id: 523 
 Resume Category: Automotive / Maintenance + Service
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7970218579775624)
 
 
 ------------------------------------
+Resume id: 108 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7969655091943141)
 
 
 ------------------------------------
+Resume id: 219 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7967988258077275)
 
 
 ------------------------------------
+Resume id: 275 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7965008208587379)
 
 
 ------------------------------------
+Resume id: 126 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7963546936530059)
 
 
 ------------------------------------
+Resume id: 202 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7960603627575261)
 
 
 ------------------------------------
+Resume id: 34 
 Resume Category: Transportation + Travel / Operations + Administrative
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.7956671272353107)
 
 
 ------------------------------------
+Resume id: 168 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 386 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7955435230282684)
 
 
 ------------------------------------
+Resume id: 558 
 Resume Category: Communications + Marketing / Maintenance + Service (to include telecom)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7954087991683544)
 
 
 ------------------------------------
+Resume id: 544 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7951563941787382)
 
 
 ------------------------------------
+Resume id: 226 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7950420683247483)
 
 
 ------------------------------------
+Resume id: 24 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 185 
 Job Description Category: retail
 
 (Similarity Score: 0.7949634789312563)
 
 
 ------------------------------------
+Resume id: 130 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7949313769444073)
 
 
 ------------------------------------
+Resume id: 69 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7948825009777626)
 
 
 ------------------------------------
+Resume id: 542 
 Resume Category: Automotive / Maintenance + Service
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.7945298789629185)
 
 
 ------------------------------------
+Resume id: 175 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.79427210870811)
 
 
 ------------------------------------
+Resume id: 566 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7937944077780262)
 
 
 ------------------------------------
+Resume id: 302 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 253 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7937601874728718)
 
 
 ------------------------------------
+Resume id: 426 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7933227374386593)
 
 
 ------------------------------------
+Resume id: 355 
 Resume Category: Food + Beverage / Other
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7932919033941414)
 
 
 ------------------------------------
+Resume id: 419 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7932114895898675)
 
 
 ------------------------------------
+Resume id: 503 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7930183042483993)
 
 
 ------------------------------------
+Resume id: 483 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7925091415378703)
 
 
 ------------------------------------
+Resume id: 216 
 Resume Category: Health Care / Other
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.792327574879805)
 
 
 ------------------------------------
+Resume id: 57 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 793 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.792284382501065)
 
 
 ------------------------------------
+Resume id: 392 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7921322059863497)
 
 
 ------------------------------------
+Resume id: 204 
 Resume Category: Health Care / Other
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7915871676183118)
 
 
 ------------------------------------
+Resume id: 491 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7915576928632342)
 
 
 ------------------------------------
+Resume id: 42 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7906625121856946)
 
 
 ------------------------------------
+Resume id: 541 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 169 
 Job Description Category: administrative
 
 (Similarity Score: 0.7902940896232693)
 
 
 ------------------------------------
+Resume id: 367 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7901466226527821)
 
 
 ------------------------------------
+Resume id: 489 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 489 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7892201701106166)
 
 
 ------------------------------------
+Resume id: 440 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7890376699843669)
 
 
 ------------------------------------
+Resume id: 365 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7889724463058975)
 
 
 ------------------------------------
+Resume id: 317 
 Resume Category: Finance + Business / Mortgage + Real Estate
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7889333839621263)
 
 
 ------------------------------------
+Resume id: 8 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.7887261359015532)
 
 
 ------------------------------------
+Resume id: 407 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7883094756517591)
 
 
 ------------------------------------
+Resume id: 515 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 207 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7881105134362006)
 
 
 ------------------------------------
+Resume id: 561 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7880840461694849)
 
 
 ------------------------------------
+Resume id: 338 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7875575171854797)
 
 
 ------------------------------------
+Resume id: 160 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.7875201881353615)
 
 
 ------------------------------------
+Resume id: 527 
 Resume Category: Agriculture / Operations + Administrative
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7872149689122102)
 
 
 ------------------------------------
+Resume id: 178 
 Resume Category: Health Care / Other
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7869554676562924)
 
 
 ------------------------------------
+Resume id: 320 
 Resume Category: Finance + Business / Insurance
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7868659168159631)
 
 
 ------------------------------------
+Resume id: 538 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7868518339360414)
 
 
 ------------------------------------
+Resume id: 235 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7868411525981244)
 
 
 ------------------------------------
+Resume id: 14 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.786826922404717)
 
 
 ------------------------------------
+Resume id: 488 
 Resume Category: Education / Childcare (includes day-care, nanny, pre-k education)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.786652798214264)
 
 
 ------------------------------------
+Resume id: 301 
 Resume Category: Food + Beverage / Sales
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7863680621206095)
 
 
 ------------------------------------
+Resume id: 291 
 Resume Category: Government / Other
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7862539501760164)
 
 
 ------------------------------------
+Resume id: 1 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7860712742359492)
 
 
 ------------------------------------
+Resume id: 510 
 Resume Category: Education / Administrative
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7859826475787391)
 
 
 ------------------------------------
+Resume id: 348 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7852534801467219)
 
 
 ------------------------------------
+Resume id: 455 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.785035633514879)
 
 
 ------------------------------------
+Resume id: 354 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7850048656781978)
 
 
 ------------------------------------
+Resume id: 482 
 Resume Category: Agriculture / Environmental Engineering
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.7842564018912839)
 
 
 ------------------------------------
+Resume id: 326 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7837974501730791)
 
 
 ------------------------------------
+Resume id: 442 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 94 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7836691358621236)
 
 
 ------------------------------------
+Resume id: 391 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7836624812734093)
 
 
 ------------------------------------
+Resume id: 23 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 17 
 Job Description Category: retail
 
 (Similarity Score: 0.7832296709877876)
 
 
 ------------------------------------
+Resume id: 444 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7825968950003993)
 
 
 ------------------------------------
+Resume id: 52 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7825272560609801)
 
 
 ------------------------------------
+Resume id: 20 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.7820090179638454)
 
 
 ------------------------------------
+Resume id: 37 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7819058805427365)
 
 
 ------------------------------------
+Resume id: 307 
 Resume Category: Government / Other
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7815471889933611)
 
 
 ------------------------------------
+Resume id: 263 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 455 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7812835584319382)
 
 
 ------------------------------------
+Resume id: 508 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7811939299719385)
 
 
 ------------------------------------
+Resume id: 375 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.780879797986709)
 
 
 ------------------------------------
+Resume id: 27 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7807498252591103)
 
 
 ------------------------------------
+Resume id: 285 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 253 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7807318749400333)
 
 
 ------------------------------------
+Resume id: 470 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 831 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7805035888453319)
 
 
 ------------------------------------
+Resume id: 286 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 315 
 Job Description Category: administrative
 
 (Similarity Score: 0.7794866290102178)
 
 
 ------------------------------------
+Resume id: 281 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7792094230147536)
 
 
 ------------------------------------
+Resume id: 451 
 Resume Category: Finance + Business / Banking
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7789147467206464)
 
 
 ------------------------------------
+Resume id: 532 
 Resume Category: Agriculture / Other
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.7786161719027909)
 
 
 ------------------------------------
+Resume id: 158 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7785684264401872)
 
 
 ------------------------------------
+Resume id: 0 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 768 
 Job Description Category: sales
 
 (Similarity Score: 0.7783820488985432)
 
 
 ------------------------------------
+Resume id: 318 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7780846419204192)
 
 
 ------------------------------------
+Resume id: 467 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.777278215888318)
 
 
 ------------------------------------
+Resume id: 363 
 Resume Category: Health Care / Other
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7771480596621306)
 
 
 ------------------------------------
+Resume id: 435 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 623 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7770044649992555)
 
 
 ------------------------------------
+Resume id: 132 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.7769688169822832)
 
 
 ------------------------------------
+Resume id: 43 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7769385912011207)
 
 
 ------------------------------------
+Resume id: 174 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7763196078872827)
 
 
 ------------------------------------
+Resume id: 474 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7758661661293265)
 
 
 ------------------------------------
+Resume id: 506 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.775756783149355)
 
 
 ------------------------------------
+Resume id: 64 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 617 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7756528405521221)
 
 
 ------------------------------------
+Resume id: 217 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7752916638223989)
 
 
 ------------------------------------
+Resume id: 559 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.775274667770309)
 
 
 ------------------------------------
+Resume id: 146 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 877 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7751188907639425)
 
 
 ------------------------------------
+Resume id: 241 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7748956446957819)
 
 
 ------------------------------------
+Resume id: 85 
 Resume Category: Manufacturing + Design / Architecture
 
+Job Desc id: 623 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7744666209996989)
 
 
 ------------------------------------
+Resume id: 432 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 291 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7742306075376412)
 
 
 ------------------------------------
+Resume id: 408 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7739727501354181)
 
 
 ------------------------------------
+Resume id: 222 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7738121110746146)
 
 
 ------------------------------------
+Resume id: 545 
 Resume Category: Agriculture / Operations + Administrative
 
+Job Desc id: 726 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.7737866684036144)
 
 
 ------------------------------------
+Resume id: 300 
 Resume Category: Government / Operations + Administrative
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.7730596360858908)
 
 
 ------------------------------------
+Resume id: 22 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.7729832070221875)
 
 
 ------------------------------------
+Resume id: 526 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7728620304160067)
 
 
 ------------------------------------
+Resume id: 540 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7726882804974335)
 
 
 ------------------------------------
+Resume id: 248 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7726852973123192)
 
 
 ------------------------------------
+Resume id: 80 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 168 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7724179274195119)
 
 
 ------------------------------------
+Resume id: 485 
 Resume Category: Education / Administrative
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.7718693758841901)
 
 
 ------------------------------------
+Resume id: 145 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.7717837565405709)
 
 
 ------------------------------------
+Resume id: 211 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7717302150846835)
 
 
 ------------------------------------
+Resume id: 176 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 117 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7711566415403096)
 
 
 ------------------------------------
+Resume id: 262 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7709697257561882)
 
 
 ------------------------------------
+Resume id: 469 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 856 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7706628295740652)
 
 
 ------------------------------------
+Resume id: 270 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7704772407763234)
 
 
 ------------------------------------
+Resume id: 5 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.770273705369034)
 
 
 ------------------------------------
+Resume id: 68 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.770273705369034)
 
 
 ------------------------------------
+Resume id: 215 
 Resume Category: Health Care / Other
 
+Job Desc id: 406 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7698405871331394)
 
 
 ------------------------------------
+Resume id: 439 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7698284374390827)
 
 
 ------------------------------------
+Resume id: 366 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7692837801757435)
 
 
 ------------------------------------
+Resume id: 504 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7686997306619529)
 
 
 ------------------------------------
+Resume id: 386 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7670566317550357)
 
 
 ------------------------------------
+Resume id: 452 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7669292616876652)
 
 
 ------------------------------------
+Resume id: 410 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7667740332122156)
 
 
 ------------------------------------
+Resume id: 228 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7661481363638847)
 
 
 ------------------------------------
+Resume id: 324 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7661054025139404)
 
 
 ------------------------------------
+Resume id: 279 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 185 
 Job Description Category: retail
 
 (Similarity Score: 0.7660173863461814)
 
 
 ------------------------------------
+Resume id: 572 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7658870712703771)
 
 
 ------------------------------------
+Resume id: 517 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 846 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7657999585331504)
 
 
 ------------------------------------
+Resume id: 97 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7652754407235526)
 
 
 ------------------------------------
+Resume id: 12 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7652604357792041)
 
 
 ------------------------------------
+Resume id: 350 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7643269691989129)
 
 
 ------------------------------------
+Resume id: 207 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7641207434917042)
 
 
 ------------------------------------
+Resume id: 547 
 Resume Category: Automotive / Sales
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7639983554194554)
 
 
 ------------------------------------
+Resume id: 136 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7639380976086168)
 
 
 ------------------------------------
+Resume id: 133 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 856 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7637576774903647)
 
 
 ------------------------------------
+Resume id: 554 
 Resume Category: Automotive / Maintenance + Service
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7633678658144812)
 
 
 ------------------------------------
+Resume id: 203 
 Resume Category: Health Care / Other
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7633566282710753)
 
 
 ------------------------------------
+Resume id: 409 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.76323054126965)
 
 
 ------------------------------------
+Resume id: 131 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 163 
 Job Description Category: customer_service
 
 (Similarity Score: 0.763169376383257)
 
 
 ------------------------------------
+Resume id: 478 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 489 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7631547141698437)
 
 
 ------------------------------------
+Resume id: 428 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7627387942318082)
 
 
 ------------------------------------
+Resume id: 94 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 463 
 Job Description Category: education_training
 
 (Similarity Score: 0.7626930815434589)
 
 
 ------------------------------------
+Resume id: 242 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 575 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7626197870876362)
 
 
 ------------------------------------
+Resume id: 7 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.7625797257826146)
 
 
 ------------------------------------
+Resume id: 555 
 Resume Category: Communications + Marketing / Marketing + Design
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7622477402241783)
 
 
 ------------------------------------
+Resume id: 180 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.7621112635636271)
 
 
 ------------------------------------
+Resume id: 274 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 253 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7619805778711889)
 
 
 ------------------------------------
+Resume id: 493 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.761007759498769)
 
 
 ------------------------------------
+Resume id: 154 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.760906912821358)
 
 
 ------------------------------------
+Resume id: 220 
 Resume Category: Health Care / Other
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7608282970457998)
 
 
 ------------------------------------
+Resume id: 494 
 Resume Category: Education / Other
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7604233547955884)
 
 
 ------------------------------------
+Resume id: 349 
 Resume Category: Health Care / Other
 
+Job Desc id: 17 
 Job Description Category: retail
 
 (Similarity Score: 0.760203891978598)
 
 
 ------------------------------------
+Resume id: 534 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 95 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.7589322502250646)
 
 
 ------------------------------------
+Resume id: 513 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7588747302089215)
 
 
 ------------------------------------
+Resume id: 394 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 831 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7580221131566238)
 
 
 ------------------------------------
+Resume id: 345 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7578820748009263)
 
 
 ------------------------------------
+Resume id: 378 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7577721074090052)
 
 
 ------------------------------------
+Resume id: 238 
 Resume Category: Human Services + Social Work / Social Worker
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7575658064749554)
 
 
 ------------------------------------
+Resume id: 421 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 518 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7571301872171267)
 
 
 ------------------------------------
+Resume id: 53 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7562527544246771)
 
 
 ------------------------------------
+Resume id: 370 
 Resume Category: Health Care / Other
 
+Job Desc id: 270 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7561493791147098)
 
 
 ------------------------------------
+Resume id: 437 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 964 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7559911016272113)
 
 
 ------------------------------------
+Resume id: 55 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 369 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7558935062796805)
 
 
 ------------------------------------
+Resume id: 522 
 Resume Category: Agriculture / Other
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.755456717451203)
 
 
 ------------------------------------
+Resume id: 546 
 Resume Category: Automotive / Operations + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7546770871328474)
 
 
 ------------------------------------
+Resume id: 543 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.752900327444057)
 
 
 ------------------------------------
+Resume id: 530 
 Resume Category: Communications + Marketing / Entertainment + Media
 
+Job Desc id: 207 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7528330324434043)
 
 
 ------------------------------------
+Resume id: 477 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7521095354186439)
 
 
 ------------------------------------
+Resume id: 346 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.7520215661181575)
 
 
 ------------------------------------
+Resume id: 272 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 281 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7514602336246801)
 
 
 ------------------------------------
+Resume id: 224 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 281 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7504360338630471)
 
 
 ------------------------------------
+Resume id: 418 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7503042284400239)
 
 
 ------------------------------------
+Resume id: 398 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 17 
 Job Description Category: retail
 
 (Similarity Score: 0.7496032657686669)
 
 
 ------------------------------------
+Resume id: 96 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7491825480943386)
 
 
 ------------------------------------
+Resume id: 405 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 66 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7483983011138978)
 
 
 ------------------------------------
+Resume id: 183 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7478926368235286)
 
 
 ------------------------------------
+Resume id: 28 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 535 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.747707088901428)
 
 
 ------------------------------------
+Resume id: 35 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7474080817154812)
 
 
 ------------------------------------
+Resume id: 209 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7470530160814731)
 
 
 ------------------------------------
+Resume id: 252 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7463319000418087)
 
 
 ------------------------------------
+Resume id: 221 
 Resume Category: Health Care / Other
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7455680472005403)
 
 
 ------------------------------------
+Resume id: 184 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7451065041368454)
 
 
 ------------------------------------
+Resume id: 321 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 185 
 Job Description Category: retail
 
 (Similarity Score: 0.7444987008134736)
 
 
 ------------------------------------
+Resume id: 261 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7444367140670907)
 
 
 ------------------------------------
+Resume id: 377 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 841 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7442597034593966)
 
 
 ------------------------------------
+Resume id: 50 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 374 
 Job Description Category: retail
 
 (Similarity Score: 0.7441896750541336)
 
 
 ------------------------------------
+Resume id: 32 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 986 
 Job Description Category: retail
 
 (Similarity Score: 0.7431876627846522)
 
 
 ------------------------------------
+Resume id: 142 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 755 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7429598729926326)
 
 
 ------------------------------------
+Resume id: 71 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7428966444009111)
 
 
 ------------------------------------
+Resume id: 271 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.742451399767117)
 
 
 ------------------------------------
+Resume id: 61 
 Resume Category: Manufacturing + Design / Sales
 
+Job Desc id: 60 
 Job Description Category: retail
 
 (Similarity Score: 0.7423631032527723)
 
 
 ------------------------------------
+Resume id: 110 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 168 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7411844938997414)
 
 
 ------------------------------------
+Resume id: 38 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 939 
 Job Description Category: sales
 
 (Similarity Score: 0.740427289702035)
 
 
 ------------------------------------
+Resume id: 390 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7402210851849702)
 
 
 ------------------------------------
+Resume id: 511 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7393741266661024)
 
 
 ------------------------------------
+Resume id: 536 
 Resume Category: Communications + Marketing / Maintenance + Service (to include telecom)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7393221116462018)
 
 
 ------------------------------------
+Resume id: 266 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.739190373045378)
 
 
 ------------------------------------
+Resume id: 385 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7391503632219657)
 
 
 ------------------------------------
+Resume id: 399 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7391279250692512)
 
 
 ------------------------------------
+Resume id: 446 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7391279250692512)
 
 
 ------------------------------------
+Resume id: 29 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.7386198821177535)
 
 
 ------------------------------------
+Resume id: 328 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7386036799725619)
 
 
 ------------------------------------
+Resume id: 195 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7383353246115261)
 
 
 ------------------------------------
+Resume id: 247 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7381455383037212)
 
 
 ------------------------------------
+Resume id: 552 
 Resume Category: Communications + Marketing / Marketing + Design
 
+Job Desc id: 450 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.7378605749332987)
 
 
 ------------------------------------
+Resume id: 570 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7368524562409776)
 
 
 ------------------------------------
+Resume id: 278 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.7367447067725214)
 
 
 ------------------------------------
+Resume id: 382 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 557 
 Job Description Category: administrative
 
 (Similarity Score: 0.736338687923892)
 
 
 ------------------------------------
+Resume id: 63 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 278 
 Job Description Category: restaurant_food_service
 
 (Similarity Score: 0.7362615517756761)
 
 
 ------------------------------------
+Resume id: 531 
 Resume Category: Communications + Marketing / Marketing + Design
 
+Job Desc id: 650 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.7357753944350349)
 
 
 ------------------------------------
+Resume id: 288 
 Resume Category: Government / Military
 
+Job Desc id: 540 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.7356680529768156)
 
 
 ------------------------------------
+Resume id: 255 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.7353496811659964)
 
 
 ------------------------------------
+Resume id: 6 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.7348363788069425)
 
 
 ------------------------------------
+Resume id: 99 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 169 
 Job Description Category: administrative
 
 (Similarity Score: 0.7336535042768206)
 
 
 ------------------------------------
+Resume id: 163 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7332822146839484)
 
 
 ------------------------------------
+Resume id: 140 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 321 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.732676875981033)
 
 
 ------------------------------------
+Resume id: 188 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.7324792041058483)
 
 
 ------------------------------------
+Resume id: 358 
 Resume Category: Finance + Business / Insurance
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.7318720449613627)
 
 
 ------------------------------------
+Resume id: 501 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 281 
 Job Description Category: human_resources
 
 (Similarity Score: 0.7315411125952053)
 
 
 ------------------------------------
+Resume id: 505 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 291 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7311489823882724)
 
 
 ------------------------------------
+Resume id: 571 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7291157768050379)
 
 
 ------------------------------------
+Resume id: 231 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.7290175087756126)
 
 
 ------------------------------------
+Resume id: 516 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7289416462001649)
 
 
 ------------------------------------
+Resume id: 415 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 831 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7286939533011872)
 
 
 ------------------------------------
+Resume id: 170 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7286373922688768)
 
 
 ------------------------------------
+Resume id: 472 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7280490344870973)
 
 
 ------------------------------------
+Resume id: 171 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 67 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7270342177745296)
 
 
 ------------------------------------
+Resume id: 41 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 294 
 Job Description Category: banking_loans
 
 (Similarity Score: 0.7254323460478118)
 
 
 ------------------------------------
+Resume id: 89 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.725316901930348)
 
 
 ------------------------------------
+Resume id: 156 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 855 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.7250313279685932)
 
 
 ------------------------------------
+Resume id: 148 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 716 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7250122484250645)
 
 
 ------------------------------------
+Resume id: 129 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7247110917556379)
 
 
 ------------------------------------
+Resume id: 362 
 Resume Category: Food + Beverage / Other
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7246707175610897)
 
 
 ------------------------------------
+Resume id: 404 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.7236234238580865)
 
 
 ------------------------------------
+Resume id: 395 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 580 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7231714446121185)
 
 
 ------------------------------------
+Resume id: 151 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 704 
 Job Description Category: administrative
 
 (Similarity Score: 0.7229916535104727)
 
 
 ------------------------------------
+Resume id: 374 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7223514750301032)
 
 
 ------------------------------------
+Resume id: 343 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7218761869399389)
 
 
 ------------------------------------
+Resume id: 308 
 Resume Category: Government / Operations + Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.7205107472738831)
 
 
 ------------------------------------
+Resume id: 192 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.720413159387662)
 
 
 ------------------------------------
+Resume id: 429 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7184933551136568)
 
 
 ------------------------------------
+Resume id: 565 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.718179626976379)
 
 
 ------------------------------------
+Resume id: 138 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 704 
 Job Description Category: administrative
 
 (Similarity Score: 0.7169964079228641)
 
 
 ------------------------------------
+Resume id: 232 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 15 
 Job Description Category: government_military
 
 (Similarity Score: 0.7167506285131017)
 
 
 ------------------------------------
+Resume id: 314 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.7149757974668258)
 
 
 ------------------------------------
+Resume id: 92 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 768 
 Job Description Category: sales
 
 (Similarity Score: 0.7146446941956457)
 
 
 ------------------------------------
+Resume id: 290 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 176 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.7144529416994401)
 
 
 ------------------------------------
+Resume id: 533 
 Resume Category: Automotive / Maintenance + Service
 
+Job Desc id: 455 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7138936287633206)
 
 
 ------------------------------------
+Resume id: 413 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7132441596011792)
 
 
 ------------------------------------
+Resume id: 114 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.71318081310867)
 
 
 ------------------------------------
+Resume id: 313 
 Resume Category: Government / Operations + Administrative
 
+Job Desc id: 210 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7128964974381536)
 
 
 ------------------------------------
+Resume id: 372 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 455 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.712552263198655)
 
 
 ------------------------------------
+Resume id: 341 
 Resume Category: Finance + Business / Customer Service (general)
 
+Job Desc id: 417 
 Job Description Category: sales
 
 (Similarity Score: 0.7122944068975444)
 
 
 ------------------------------------
+Resume id: 424 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7108154766760547)
 
 
 ------------------------------------
+Resume id: 243 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 704 
 Job Description Category: administrative
 
 (Similarity Score: 0.7094191695794971)
 
 
 ------------------------------------
+Resume id: 199 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 466 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.7093539914652088)
 
 
 ------------------------------------
+Resume id: 166 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7087905445424375)
 
 
 ------------------------------------
+Resume id: 492 
 Resume Category: Education / Other
 
+Job Desc id: 584 
 Job Description Category: education_training
 
 (Similarity Score: 0.7081230989525226)
 
 
 ------------------------------------
+Resume id: 46 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.7079965744513472)
 
 
 ------------------------------------
+Resume id: 330 
 Resume Category: Health Care / Other
 
+Job Desc id: 561 
 Job Description Category: healthcare
 
 (Similarity Score: 0.7079728792056686)
 
 
 ------------------------------------
+Resume id: 155 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.7065586056360117)
 
 
 ------------------------------------
+Resume id: 236 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7050847441899832)
 
 
 ------------------------------------
+Resume id: 450 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 134 
 Job Description Category: sales
 
 (Similarity Score: 0.7042012860148985)
 
 
 ------------------------------------
+Resume id: 381 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 516 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.7037076931181196)
 
 
 ------------------------------------
+Resume id: 539 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 793 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7033259545117675)
 
 
 ------------------------------------
+Resume id: 498 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.7032372043072758)
 
 
 ------------------------------------
+Resume id: 105 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.7028615903380331)
 
 
 ------------------------------------
+Resume id: 257 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7020391322532926)
 
 
 ------------------------------------
+Resume id: 98 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.7018169005718398)
 
 
 ------------------------------------
+Resume id: 507 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 528 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.7003581297479787)
 
 
 ------------------------------------
+Resume id: 227 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 780 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6997109957955125)
 
 
 ------------------------------------
+Resume id: 39 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 594 
 Job Description Category: sales
 
 (Similarity Score: 0.6978763354809067)
 
 
 ------------------------------------
+Resume id: 502 
 Resume Category: Education / Administrative
 
+Job Desc id: 557 
 Job Description Category: administrative
 
 (Similarity Score: 0.6973803440266622)
 
 
 ------------------------------------
+Resume id: 264 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.6966183970614661)
 
 
 ------------------------------------
+Resume id: 287 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6960191501462657)
 
 
 ------------------------------------
+Resume id: 172 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 181 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.6960035049344023)
 
 
 ------------------------------------
+Resume id: 551 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.695408776073607)
 
 
 ------------------------------------
+Resume id: 453 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.6951768284479941)
 
 
 ------------------------------------
+Resume id: 254 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 357 
 Job Description Category: administrative
 
 (Similarity Score: 0.6945304629447421)
 
 
 ------------------------------------
+Resume id: 373 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 144 
 Job Description Category: human_resources
 
 (Similarity Score: 0.6933554545057142)
 
 
 ------------------------------------
+Resume id: 161 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 847 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.6924759182662511)
 
 
 ------------------------------------
+Resume id: 40 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.6917494566618045)
 
 
 ------------------------------------
+Resume id: 149 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.6909433195026543)
 
 
 ------------------------------------
+Resume id: 128 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.6881695125234943)
 
 
 ------------------------------------
+Resume id: 480 
 Resume Category: Education / Administrative
 
+Job Desc id: 260 
 Job Description Category: education_training
 
 (Similarity Score: 0.6875722469755319)
 
 
 ------------------------------------
+Resume id: 436 
 Resume Category: Finance + Business / Banking
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.6861503962169331)
 
 
 ------------------------------------
+Resume id: 557 
 Resume Category: Communications + Marketing / Marketing + Design
 
+Job Desc id: 401 
 Job Description Category: education_training
 
 (Similarity Score: 0.6853697147623149)
 
 
 ------------------------------------
+Resume id: 401 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 108 
 Job Description Category: sales
 
 (Similarity Score: 0.6845673449646347)
 
 
 ------------------------------------
+Resume id: 19 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 60 
 Job Description Category: retail
 
 (Similarity Score: 0.6836055480281626)
 
 
 ------------------------------------
+Resume id: 214 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 218 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6833551915829237)
 
 
 ------------------------------------
+Resume id: 162 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.68027566563661)
 
 
 ------------------------------------
+Resume id: 25 
 Resume Category: Retail / Small Business Owner + Entrepreneur (General Category)
 
+Job Desc id: 53 
 Job Description Category: sales
 
 (Similarity Score: 0.6801000221151586)
 
 
 ------------------------------------
+Resume id: 206 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 55 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6779153086413402)
 
 
 ------------------------------------
+Resume id: 79 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 0 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.676975678474257)
 
 
 ------------------------------------
+Resume id: 225 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6763297124224092)
 
 
 ------------------------------------
+Resume id: 72 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 17 
 Job Description Category: retail
 
 (Similarity Score: 0.6759896387505748)
 
 
 ------------------------------------
+Resume id: 153 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.6748624804834013)
 
 
 ------------------------------------
+Resume id: 244 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 855 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.6745669408332323)
 
 
 ------------------------------------
+Resume id: 101 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.6745590100539425)
 
 
 ------------------------------------
+Resume id: 187 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 281 
 Job Description Category: human_resources
 
 (Similarity Score: 0.6725163478486536)
 
 
 ------------------------------------
+Resume id: 111 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 307 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.6716285244283874)
 
 
 ------------------------------------
+Resume id: 569 
 Resume Category: Aerospace / Operations + Administrative (includes airplane staff)
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.6709535320765447)
 
 
 ------------------------------------
+Resume id: 193 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 181 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.6686930784576371)
 
 
 ------------------------------------
+Resume id: 284 
 Resume Category: Health Care / Hospital: Doctor or Caregiver
 
+Job Desc id: 253 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6655376075601807)
 
 
 ------------------------------------
+Resume id: 139 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 257 
 Job Description Category: sales
 
 (Similarity Score: 0.6633318239994009)
 
 
 ------------------------------------
+Resume id: 65 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.6620252018362182)
 
 
 ------------------------------------
+Resume id: 74 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 447 
 Job Description Category: administrative
 
 (Similarity Score: 0.6598216906859155)
 
 
 ------------------------------------
+Resume id: 473 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 904 
 Job Description Category: sales
 
 (Similarity Score: 0.6591259995251653)
 
 
 ------------------------------------
+Resume id: 102 
 Resume Category: Manufacturing + Design / Engineering (includes industrial and manufacturing)
 
+Job Desc id: 869 
 Job Description Category: customer_service
 
 (Similarity Score: 0.6568448652753689)
 
 
 ------------------------------------
+Resume id: 417 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 580 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6567739995095853)
 
 
 ------------------------------------
+Resume id: 173 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.6559187287330034)
 
 
 ------------------------------------
+Resume id: 84 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 0 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.6557759581282011)
 
 
 ------------------------------------
+Resume id: 137 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6534151456869648)
 
 
 ------------------------------------
+Resume id: 333 
 Resume Category: Finance + Business / Other
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6519067066649318)
 
 
 ------------------------------------
+Resume id: 519 
 Resume Category: Communications + Marketing / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6513911931057375)
 
 
 ------------------------------------
+Resume id: 75 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 93 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6496082315364119)
 
 
 ------------------------------------
+Resume id: 218 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 55 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6490715794151924)
 
 
 ------------------------------------
+Resume id: 196 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 22 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.648164047316132)
 
 
 ------------------------------------
+Resume id: 124 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 637 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6480843558637093)
 
 
 ------------------------------------
+Resume id: 135 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 755 
 Job Description Category: accounting_finance
 
 (Similarity Score: 0.6477351528064819)
 
 
 ------------------------------------
+Resume id: 223 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 0 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.6463783896766553)
 
 
 ------------------------------------
+Resume id: 265 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 217 
 Job Description Category: human_resources
 
 (Similarity Score: 0.6452136814453462)
 
 
 ------------------------------------
+Resume id: 76 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 211 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.6436833848521819)
 
 
 ------------------------------------
+Resume id: 54 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 856 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6420405869604973)
 
 
 ------------------------------------
+Resume id: 62 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 264 
 Job Description Category: retail
 
 (Similarity Score: 0.6397771436559191)
 
 
 ------------------------------------
+Resume id: 143 
 Resume Category: Information Technology Services / Other
 
+Job Desc id: 133 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.6393465942070198)
 
 
 ------------------------------------
+Resume id: 353 
 Resume Category: Health Care / Other
 
+Job Desc id: 42 
 Job Description Category: healthcare
 
 (Similarity Score: 0.6390910882736608)
 
 
 ------------------------------------
+Resume id: 412 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 423 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.639087510698625)
 
 
 ------------------------------------
+Resume id: 239 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 628 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.6388291447018004)
 
 
 ------------------------------------
+Resume id: 117 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 286 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6370045733649797)
 
 
 ------------------------------------
+Resume id: 456 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 235 
 Job Description Category: customer_service
 
 (Similarity Score: 0.635108836760037)
 
 
 ------------------------------------
+Resume id: 509 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 133 
 Job Description Category: marketing_advertising_pr
 
 (Similarity Score: 0.6273082420806784)
 
 
 ------------------------------------
+Resume id: 213 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 795 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.6253743551576657)
 
 
 ------------------------------------
+Resume id: 449 
 Resume Category: Finance + Business / Banking
 
+Job Desc id: 768 
 Job Description Category: sales
 
 (Similarity Score: 0.6133926746536299)
 
 
 ------------------------------------
+Resume id: 60 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.608730030556043)
 
 
 ------------------------------------
+Resume id: 123 
 Resume Category: Information Technology Services / Operations + Administrative
 
+Job Desc id: 357 
 Job Description Category: administrative
 
 (Similarity Score: 0.608011486680511)
 
 
 ------------------------------------
+Resume id: 499 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 406 
 Job Description Category: healthcare
 
 (Similarity Score: 0.60685774410437)
 
 
 ------------------------------------
+Resume id: 103 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 319 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.6034470613388314)
 
 
 ------------------------------------
+Resume id: 269 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 964 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.6026852489270944)
 
 
 ------------------------------------
+Resume id: 438 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 705 
 Job Description Category: administrative
 
 (Similarity Score: 0.5892418148389377)
 
 
 ------------------------------------
+Resume id: 164 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 7 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.5820192086839385)
 
 
 ------------------------------------
+Resume id: 189 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.576244325696549)
 
 
 ------------------------------------
+Resume id: 550 
 Resume Category: Communications + Marketing / Entertainment + Media
 
+Job Desc id: 127 
 Job Description Category: computer_internet
 
 (Similarity Score: 0.5739495370144563)
 
 
 ------------------------------------
+Resume id: 201 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 557 
 Job Description Category: administrative
 
 (Similarity Score: 0.5728486880615555)
 
 
 ------------------------------------
+Resume id: 106 
 Resume Category: Information Technology Services / Other
 
+Job Desc id: 736 
 Job Description Category: insurance
 
 (Similarity Score: 0.5688658810994711)
 
 
 ------------------------------------
+Resume id: 434 
 Resume Category: Finance + Business / Accounting + Administrative
 
+Job Desc id: 831 
 Job Description Category: upper_management_consulting
 
 (Similarity Score: 0.5681440180721655)
 
 
 ------------------------------------
+Resume id: 528 
 Resume Category: Communications + Marketing / Marketing + Design
 
+Job Desc id: 598 
 Job Description Category: sales
 
 (Similarity Score: 0.5616478566133531)
 
 
 ------------------------------------
+Resume id: 311 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 939 
 Job Description Category: sales
 
 (Similarity Score: 0.5607286921263063)
 
 
 ------------------------------------
+Resume id: 10 
 Resume Category: Retail / Small Business Owner + Entrepreneur (General Category)
 
+Job Desc id: 281 
 Job Description Category: human_resources
 
 (Similarity Score: 0.538041314691609)
 
 
 ------------------------------------
+Resume id: 282 
 Resume Category: Health Care / Operations + Administrative + Medical Staff
 
+Job Desc id: 620 
 Job Description Category: healthcare
 
 (Similarity Score: 0.53500061238133)
 
 
 ------------------------------------
+Resume id: 237 
 Resume Category: Information Technology Services / Engineering + Programing (includes technical)
 
+Job Desc id: 731 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.532097531786404)
 
 
 ------------------------------------
+Resume id: 81 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 0 
 Job Description Category: arts_entertainment_publishing
 
 (Similarity Score: 0.5073379770501386)
 
 
 ------------------------------------
+Resume id: 159 
 Resume Category: Manufacturing + Design / Operations + Administrative (includes warehouse and logistics)
 
+Job Desc id: 850 
 Job Description Category: law_enforcement_security
 
 (Similarity Score: 0.5054644083780867)
 
 
 ------------------------------------
+Resume id: 250 
 Resume Category: Human Services + Social Work / Human Resources (Office Admin)
 
+Job Desc id: 794 
 Job Description Category: administrative
 
 (Similarity Score: 0.5034644470638767)
 
 
 ------------------------------------
+Resume id: 73 
 Resume Category: Retail / Fashion + Clothing (can include designer)
 
+Job Desc id: 928 
 Job Description Category: manufacturing_mechanical
 
 (Similarity Score: 0.4871881598817526)
 
 
 ------------------------------------
+Resume id: 15 
 Resume Category: Retail / Manager or Store Keeper (includes clerk, cashier, or sales staff)
 
+Job Desc id: 619 
 Job Description Category: sales
 
 (Similarity Score: 0.48575262228945126)
 
 
 ------------------------------------
+Resume id: 49 
 Resume Category: N/A: Other Industry / Other Category
 
+Job Desc id: 535 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.4816767017024849)
 
 
 ------------------------------------
+Resume id: 90 
 Resume Category: Manufacturing + Design / Maintenance + Service
 
+Job Desc id: 86 
 Job Description Category: engineering_architecture
 
 (Similarity Score: 0.46819983681552463)
 
 
 ------------------------------------
+Resume id: 465 
 Resume Category: Finance + Business / Consulting or Business Development (includes general program and project mgmt.)
 
+Job Desc id: 121 
 Job Description Category: sales
 
 (Similarity Score: 0.4635529054967991)
 
 
 ------------------------------------
+Resume id: 327 
 Resume Category: Food + Beverage / Restaurant + Hospitality (includes kitchen staff)
 
+Job Desc id: 668 
 Job Description Category: restaurant_food_service
 
 (Similarity Score: 0.4218826759603148)
 
 
 ------------------------------------
+Resume id: 496 
 Resume Category: Education / Teacher + Professor
 
+Job Desc id: 466 
 Job Description Category: construction_facilities
 
 (Similarity Score: 0.4203119269163067)
 
 
 ------------------------------------
+Resume id: 86 
 Resume Category: Manufacturing + Design / Art, Design, Graphics
 
+Job Desc id: 645 
 Job Description Category: transportation_logistics
 
 (Similarity Score: 0.35850268219305254)
