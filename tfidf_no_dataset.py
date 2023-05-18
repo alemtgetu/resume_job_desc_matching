@@ -39,7 +39,7 @@ for i, job_description in enumerate(job_descriptions):
         print(f"Cosine similarity between Job Description {i+1} and Resume {j+1}: {similarity_score:.4f}")
 
 
-# heatmap of the similarity matrix
+# heatmap
 similarity_matrix = cosine_similarity(job_descriptions_tfidf, resumes_tfidf)
 plt.figure(figsize=(10, 6))
 sns.heatmap(similarity_matrix, annot=True, cmap="YlGnBu", xticklabels=resumes, yticklabels=job_descriptions)
