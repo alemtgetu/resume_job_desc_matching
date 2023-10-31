@@ -1,3 +1,5 @@
+Refer to our full Project Write up [here]https://github.com/alemtgetu/resume_job_desc_matching/blob/main/MSML641_Project_Write_Up_Zernab_Alem_Loza.pdf
+
 # start
 when thinking of resume and JD matching how can one approach to solve the problem if they dont have NLP/ML knowledge
 
