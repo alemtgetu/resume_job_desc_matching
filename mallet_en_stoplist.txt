@@ -523,3 +523,10 @@ yourselves
 z
 zero
 ’
+skills
+skill
+job
+experience
+descriptions
+description
+wanted
